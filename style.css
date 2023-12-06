@@ -1,0 +1,21 @@
+#submit_button
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sort_button
+{
+    display: none;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+input
+{
+    margin: 10px
+}
+
+body {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  }
